@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>SE_Dataset_4 1322.jpg</filename>
+	<path>C:\Users\lpuddu\Google Drive\RCNN\RNCC_SE\images\test\SE_Dataset_4 1322.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Palla</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>192</ymin>
+			<xmax>214</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>IMG_0837.jpg</filename>
+	<path>C:\Users\lpuddu\Google Drive\RCNN\RNCC_SE\images\test\IMG_0837.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sapone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>172</ymin>
+			<xmax>459</xmax>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+</annotation>
